@@ -53,7 +53,7 @@ h1{
 #orange-color{
     color: orange;
 }
-#center{
+.header{
     text-align: center;
 }
 #color-1{
@@ -65,9 +65,11 @@ h1{
 #color-3{
     background-color: rgb(203, 193, 209);
 }
+.skill-area{
+    box-shadow: 10px 10px 40px rgb(212, 214, 218);
+}
 footer{
-    height: 200px;
-   
+    height: 200px;   
     text-align: center;   
     font-style: italic;
     color:#fff;
