@@ -18,12 +18,12 @@ body{
     margin: 20px;
 }
 .half-width img{
-    width: 100%;
+    width: 90%;
 
 }
 .width{
     width: 30%;
-    padding: 40px;
+    padding: 20px;
     margin: 20px;
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;    
@@ -35,14 +35,14 @@ body{
     height: auto;    
 }
 a{
-    background-color: tomato;  
-    padding: 10px 40px;
+    background-color: tomato;      
+    padding: 15px 40px;
     text-decoration: none;
     border-radius: 5px;
     color: #fff;
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 700;
 }
 .half-border{
@@ -66,6 +66,7 @@ h1{
     background-color: rgb(203, 193, 209);
 }
 .skill-area{
+    padding: 20px;
     box-shadow: 10px 10px 40px rgb(212, 214, 218);
 }
 footer{
